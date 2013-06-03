@@ -1,4 +1,4 @@
-*A contest to help the Whitney Museum recover a web-based work of art from the 1990s*
+Help the Whitney Museum recover a web-based artwork from the 1990s
 ===================================================================================
 
 
@@ -10,7 +10,7 @@ by Samsung. Most contributed text in their native languages, and as a result, ap
 Whitney Museum, the files sustained some form of encoding damage. All of the
 Korean text input by visitors at the 1995 Gwangju Biennale is now illegible.
 
-**For example:** what once would have been seen as: 광주비엔낱레여 (which Google
+For example, what once would have been seen as: 광주비엔낱레여 (which Google
 translates to "Gwangju Biennale open"), is now rendered as ±Ûç…¼–À£Òøá. Some
 modern browsers attempt and fail to automatically detect the encoding. This is
 not a simple matter of the text being in an obsolete character encoding, but
@@ -20,7 +20,7 @@ but the details of how or when this damage occurred are unknown.
 
 
 
-The challenge:
+The challenge
 --------------
 
 The Whitney Museum has conducted initial research and experiments in encoding
@@ -30,17 +30,11 @@ is beyond our area of expertise. Here's where you come in.
 
 
 
-**The challenge:** Repair the damaged character encoding to its original
-state.\*
-
-
-\*It is required that your results be reproducible. We ask that you produce
-technical documentation of your process and solution, explaining the "how" and "why"
-of what you did.
+The challenge: Repair the damaged character encoding to its original state. It is required that your results be reproducible. We ask that you produce technical documentation of your process and solution, explaining the "how" and "why" of what you did.
 
 
 
-Your Tools:
+Your tools
 -----------
 
 1.  The **Evidence** directory contains a PDF containing the ONLY remaining
@@ -61,7 +55,7 @@ Your Tools:
 
 
 
-To respond to the challenge:
+To respond to the challenge
 ---------------------------
 
 1.  Fork the repository
@@ -72,7 +66,7 @@ To respond to the challenge:
 
 
 
-It's worth it.
+It's worth it
 --------------
 
 If you are able to repair this encoding damage, this will be the first time
